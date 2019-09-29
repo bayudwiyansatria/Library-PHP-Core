@@ -1,12 +1,6 @@
 <p align="center">
-    <a href="https://bayudwiyansatria.github.io/Development-And-Operations/">
-        <img src="https://cdn.bayudwiyansatria.com/assets/logo-full.png" width="100%" />
-    </a>
-    <br>
-</p>
-<p align="center">
 	<a href="#">
-		<img src="https://img.shields.io/badge/%20Platforms-Java-blue.svg?style=flat-square" alt="Platforms" />
+		<img src="https://img.shields.io/badge/%20Platforms-PHP-blue.svg?style=flat-square" alt="Platforms" />
 	</a>
     <a href="https://github.com/bayudwiyansatria/Development-And-Operations/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/%20Licence-MIT-green.svg?style=flat-square" alt="license" />
@@ -25,26 +19,11 @@
 </p>
 <hr>
 
-# Bayu Dwiyan Satria - Core
+# PHP Framework- Core
 
 **Official Website: https://www.bayudwiyansatria.com/**
 
-Core of Bayu Dwiyan Satria Project Framework.
-
-<table>
-    <tr>
-        <td>Name</td>
-        <td>Bayu Dwiyan Satria - Core</td>
-    </tr>
-    <tr>
-        <td>Description</td>
-        <td>Core Of Bayu Dwiyan Satria Dependency.</td>
-    </tr>
-    <tr>
-        <td>Homepage</td>
-        <td><a href="https://bayudwiyansatria.github.io/Library-PHP-Core/">https://bayudwiyansatria.github.io/Library-PHP-Core/</a></td>
-    </tr>
-</table>
+Core of PHP Project Framework.
 
 ## Table of Contents
 
